@@ -1,7 +1,7 @@
 ---
 title: Behnam Rahdari
 role: Ph.D. Student
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Recommender Systems, Human Computer Interaction and
   Personalization.
 interests:
