@@ -1,9 +1,9 @@
 ---
 title: Behnam Rahdari
 role: Ph.D. Student
-avatar_filename: profile.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: profile.jpg
+bio: My research interests include Recommender Systems, Human Computer Interaction and
+  Personalization.
 interests:
   - Recommender Systems
   - Human Computer Interaction
@@ -35,7 +35,7 @@ education:
     - course: M.S. in Computer Science and Engineering
       institution: Polytechnic University of Milan
       year: ""
-    - course: "BSc in Computer Software Engineering "
+    - course: "BSc in Computer Software Engineering"
       institution: Azad University - IAU
       year: ""
 email: ""
