@@ -34,10 +34,10 @@ education:
       year: ""
     - course: M.S. in Computer Science and Engineering
       institution: Polytechnic University of Milan
-      year: 2013
+      year: ""
     - course: "BSc in Computer Software Engineering "
       institution: Azad University - IAU
-      year: 2010
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
